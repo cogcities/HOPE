@@ -70,6 +70,18 @@ Read the articles:
  - [Hunt the Wumpus]
  - [Semantic Web and Natural Language Processing]
 
+Technical Architecture Documentation
+----
+
+Comprehensive technical documentation with Mermaid diagrams is available in the [docs](docs/) directory:
+
+- **[Architecture Overview](docs/ARCHITECTURE.md)** - High-level system architecture and core concepts
+- **[Semantic Type System](docs/Semantic-Type-System.md)** - Detailed semantic type system architecture and design
+- **[Receptor Architecture](docs/Receptor-Architecture.md)** - Receptor design patterns and communication
+- **[Data Flow Patterns](docs/Data-Flow.md)** - Communication patterns and data routing
+- **[Practical Examples](docs/Examples.md)** - Working examples and implementation patterns
+- **[Deployment Guide](docs/Deployment.md)** - Setup, configuration, and deployment instructions
+
 To Contribute
 ----
 
@@ -88,7 +100,7 @@ We are actively seeking to create interest in a variety of markets, including ed
 Workshops / Training Tools
 ----
 
-Workshops will be schelued and specific training tools will available after the initial development cycle is complete.
+Workshops will be scheduled and specific training tools will be available after the initial development cycle is complete.
 
 License
 ----
