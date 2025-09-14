@@ -46,6 +46,9 @@ Screenshots
 
 ![Membrane Computing](https://marcclifton.files.wordpress.com/2014/06/membranes.png)
 
+**NEW: Complete Membrane Computing Tutorial Available!** 📚  
+See the [Complete Tutorial](docs/MembraneComputingTutorial.md) for comprehensive coverage including practical examples, security patterns, and advanced techniques.
+
 * Natural Language Processing of RSS Feeds
 
 ![NLP](http://www.codeproject.com/KB/cs/797457/filter3.png)
@@ -69,6 +72,17 @@ Read the articles:
  - [APOD Scraper Article] 
  - [Hunt the Wumpus]
  - [Semantic Web and Natural Language Processing]
+
+**Documentation & Tutorials**
+----
+
+📖 **Membrane Computing Resources:**
+- [Complete Membrane Computing Tutorial](docs/MembraneComputingTutorial.md) - Comprehensive guide with practical examples
+- [Quick Start Guide](docs/MembraneComputingQuickStart.md) - Get started in 5 minutes
+- [Code Examples](docs/examples/) - Ready-to-run implementations for:
+  - Basic membrane operations
+  - Security boundary patterns
+  - Load balancing and dynamic scaling
 
 To Contribute
 ----
